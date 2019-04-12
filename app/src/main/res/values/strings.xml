@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnLineSchoolFirebase</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+    <string name="register_account_or_login">Register account or login</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_our_online_school">Welcome to our online school</string>
+    <string name="upload_video">Upload Video</string>
+    <string name="video_desc">Video Desc</string>
+    <string name="video_title">Video Title</string>
+</resources>
